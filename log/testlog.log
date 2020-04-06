@@ -1,0 +1,626 @@
+2020-04-01 15:33:09,727 - eBanking -INFO - Base URL is Opened
+2020-04-01 15:33:09,965 - eBanking -INFO - UserName is passed 
+2020-04-01 15:33:10,080 - eBanking -INFO - Password is passed 
+2020-04-01 15:33:11,825 - eBanking -INFO - Button is Clicked
+2020-04-01 15:33:11,842 - eBanking -INFO - TestCase is failed 
+2020-04-01 15:34:50,952 - eBanking -INFO - Base URL is Opened
+2020-04-01 15:34:51,198 - eBanking -INFO - UserName is passed 
+2020-04-01 15:34:51,337 - eBanking -INFO - Password is passed 
+2020-04-01 15:34:53,062 - eBanking -INFO - Button is Clicked
+2020-04-01 15:34:53,080 - eBanking -INFO - Test case is passed
+2020-04-01 16:25:32,110 - eBanking -INFO - Base URL is Opened
+2020-04-01 16:25:32,337 - eBanking -INFO - UserName is passed 
+2020-04-01 16:25:32,491 - eBanking -INFO - Password is passed 
+2020-04-01 16:25:34,179 - eBanking -INFO - Button is Clicked
+2020-04-01 16:25:34,194 - eBanking -INFO - Test case is passed
+2020-04-01 16:52:32,338 - eBanking -INFO - Base URL is Opened
+2020-04-01 16:52:32,550 - eBanking -INFO - UserName is passed 
+2020-04-01 16:52:32,672 - eBanking -INFO - Password is passed 
+2020-04-01 16:52:34,406 - eBanking -INFO - Button is Clicked
+2020-04-01 16:52:34,418 - eBanking -INFO - Test case is passed
+2020-04-01 16:54:42,422 - eBanking -INFO - Base URL is Opened
+2020-04-01 16:54:42,706 - eBanking -INFO - UserName is passed 
+2020-04-01 16:54:42,859 - eBanking -INFO - Password is passed 
+2020-04-01 16:54:44,686 - eBanking -INFO - Button is Clicked
+2020-04-01 16:54:44,701 - eBanking -INFO - Test case is passed
+2020-04-01 17:14:03,531 - eBanking -INFO - Base URL is Opened
+2020-04-01 17:14:03,758 - eBanking -INFO - UserName is passed 
+2020-04-01 17:14:03,892 - eBanking -INFO - Password is passed 
+2020-04-01 17:14:05,195 - eBanking -INFO - Button is Clicked
+2020-04-01 17:14:05,212 - eBanking -INFO - Test case is passed
+2020-04-01 20:17:35,069 - eBanking -INFO - Base URL is Opened
+2020-04-01 20:17:35,265 - eBanking -INFO - UserName is passed 
+2020-04-01 20:17:35,379 - eBanking -INFO - Password is passed 
+2020-04-01 20:17:37,141 - eBanking -INFO - Button is Clicked
+2020-04-01 20:17:37,603 - eBanking -INFO - TestCase is failed 
+2020-04-01 20:20:13,726 - eBanking -INFO - Base URL is Opened
+2020-04-01 20:20:13,942 - eBanking -INFO - UserName is passed 
+2020-04-01 20:20:14,085 - eBanking -INFO - Password is passed 
+2020-04-01 20:20:15,758 - eBanking -INFO - Button is Clicked
+2020-04-01 20:20:15,772 - eBanking -INFO - Test case is passed
+2020-04-05 14:30:18,059 - eBanking -INFO - Base URL is Opened
+2020-04-05 14:30:19,407 - eBanking -INFO - UserName is passed 
+2020-04-05 14:30:19,530 - eBanking -INFO - Password is passed 
+2020-04-05 14:30:20,796 - eBanking -INFO - Button is Clicked
+2020-04-05 14:30:23,923 - eBanking -INFO - Login passed
+2020-04-05 14:30:29,565 - eBanking -INFO - Base URL is Opened
+2020-04-05 14:30:29,687 - eBanking -INFO - UserName is passed 
+2020-04-05 14:30:29,819 - eBanking -INFO - Password is passed 
+2020-04-05 14:30:30,266 - eBanking -INFO - Button is Clicked
+2020-04-05 14:30:34,330 - eBanking -INFO - Base URL is Opened
+2020-04-05 14:30:34,452 - eBanking -INFO - UserName is passed 
+2020-04-05 14:30:34,584 - eBanking -INFO - Password is passed 
+2020-04-05 14:30:35,050 - eBanking -INFO - Button is Clicked
+2020-04-05 14:30:39,684 - eBanking -INFO - Base URL is Opened
+2020-04-05 14:30:39,813 - eBanking -INFO - UserName is passed 
+2020-04-05 14:30:39,934 - eBanking -INFO - Password is passed 
+2020-04-05 14:30:40,371 - eBanking -INFO - Button is Clicked
+2020-04-05 14:30:45,077 - eBanking -INFO - Base URL is Opened
+2020-04-05 14:30:45,250 - eBanking -INFO - UserName is passed 
+2020-04-05 14:30:45,419 - eBanking -INFO - Password is passed 
+2020-04-05 14:30:45,871 - eBanking -INFO - Button is Clicked
+2020-04-05 14:34:12,763 - eBanking -INFO - Base URL is Opened
+2020-04-05 14:34:12,971 - eBanking -INFO - UserName is passed 
+2020-04-05 14:34:13,086 - eBanking -INFO - Password is passed 
+2020-04-05 14:34:14,382 - eBanking -INFO - Button is Clicked
+2020-04-05 14:34:17,418 - eBanking -INFO - Login passed
+2020-04-05 14:34:17,585 - eBanking -INFO - Base URL is Opened
+2020-04-05 14:34:27,645 - eBanking -INFO - Base URL is Opened
+2020-04-05 14:34:37,719 - eBanking -INFO - Base URL is Opened
+2020-04-05 14:34:47,805 - eBanking -INFO - Base URL is Opened
+2020-04-05 14:35:13,679 - eBanking -INFO - Base URL is Opened
+2020-04-05 14:35:14,041 - eBanking -INFO - UserName is passed 
+2020-04-05 14:35:14,373 - eBanking -INFO - Password is passed 
+2020-04-05 14:35:16,102 - eBanking -INFO - Button is Clicked
+2020-04-05 14:35:19,224 - eBanking -INFO - Login passed
+2020-04-05 14:35:19,389 - eBanking -INFO - Base URL is Opened
+2020-04-05 14:35:29,458 - eBanking -INFO - Base URL is Opened
+2020-04-05 14:35:39,530 - eBanking -INFO - Base URL is Opened
+2020-04-05 14:35:49,581 - eBanking -INFO - Base URL is Opened
+2020-04-05 14:37:06,183 - eBanking -INFO - Base URL is Opened
+2020-04-05 14:37:06,719 - eBanking -INFO - UserName is passed 
+2020-04-05 14:37:07,056 - eBanking -INFO - Password is passed 
+2020-04-05 14:37:09,079 - eBanking -INFO - Button is Clicked
+2020-04-05 14:37:12,145 - eBanking -INFO - Login passed
+2020-04-05 14:37:17,640 - eBanking -INFO - Base URL is Opened
+2020-04-05 14:37:17,761 - eBanking -INFO - UserName is passed 
+2020-04-05 14:37:17,893 - eBanking -INFO - Password is passed 
+2020-04-05 14:37:18,458 - eBanking -INFO - Button is Clicked
+2020-04-05 14:37:23,026 - eBanking -INFO - Base URL is Opened
+2020-04-05 14:37:23,150 - eBanking -INFO - UserName is passed 
+2020-04-05 14:37:23,280 - eBanking -INFO - Password is passed 
+2020-04-05 14:37:23,740 - eBanking -INFO - Button is Clicked
+2020-04-05 14:37:28,646 - eBanking -INFO - Base URL is Opened
+2020-04-05 14:37:28,855 - eBanking -INFO - UserName is passed 
+2020-04-05 14:37:28,994 - eBanking -INFO - Password is passed 
+2020-04-05 14:37:29,444 - eBanking -INFO - Button is Clicked
+2020-04-05 14:37:34,059 - eBanking -INFO - Base URL is Opened
+2020-04-05 14:37:34,242 - eBanking -INFO - UserName is passed 
+2020-04-05 14:37:34,398 - eBanking -INFO - Password is passed 
+2020-04-05 14:37:34,905 - eBanking -INFO - Button is Clicked
+2020-04-05 14:39:02,380 - eBanking -INFO - Base URL is Opened
+2020-04-05 14:39:02,863 - eBanking -INFO - UserName is passed 
+2020-04-05 14:39:03,024 - eBanking -INFO - Password is passed 
+2020-04-05 14:39:04,749 - eBanking -INFO - Button is Clicked
+2020-04-05 14:39:07,803 - eBanking -INFO - Login passed
+2020-04-05 14:39:14,337 - eBanking -INFO - Base URL is Opened
+2020-04-05 14:39:14,496 - eBanking -INFO - UserName is passed 
+2020-04-05 14:39:14,663 - eBanking -INFO - Password is passed 
+2020-04-05 14:39:15,105 - eBanking -INFO - Button is Clicked
+2020-04-05 14:39:19,861 - eBanking -INFO - Base URL is Opened
+2020-04-05 14:39:20,021 - eBanking -INFO - UserName is passed 
+2020-04-05 14:39:20,182 - eBanking -INFO - Password is passed 
+2020-04-05 14:39:20,676 - eBanking -INFO - Button is Clicked
+2020-04-05 14:39:24,733 - eBanking -INFO - Base URL is Opened
+2020-04-05 14:39:24,875 - eBanking -INFO - UserName is passed 
+2020-04-05 14:39:25,001 - eBanking -INFO - Password is passed 
+2020-04-05 14:39:25,489 - eBanking -INFO - Button is Clicked
+2020-04-05 14:39:30,124 - eBanking -INFO - Base URL is Opened
+2020-04-05 14:39:30,255 - eBanking -INFO - UserName is passed 
+2020-04-05 14:39:30,384 - eBanking -INFO - Password is passed 
+2020-04-05 14:39:30,892 - eBanking -INFO - Button is Clicked
+2020-04-05 15:39:07,357 - eBanking -INFO - User name is provided
+2020-04-05 15:39:07,484 - eBanking -INFO - Passsword is provided
+2020-04-05 15:40:21,767 - eBanking -INFO - User name is provided
+2020-04-05 15:40:21,877 - eBanking -INFO - Passsword is provided
+2020-04-05 15:43:00,316 - eBanking -INFO - User name is provided
+2020-04-05 15:43:00,450 - eBanking -INFO - Passsword is provided
+2020-04-05 15:48:59,250 - eBanking -INFO - User name is provided
+2020-04-05 15:48:59,374 - eBanking -INFO - Passsword is provided
+2020-04-05 15:57:24,177 - eBanking -INFO - User name is provided
+2020-04-05 15:57:24,293 - eBanking -INFO - Passsword is provided
+2020-04-05 15:58:22,397 - eBanking -INFO - User name is provided
+2020-04-05 15:58:22,524 - eBanking -INFO - Passsword is provided
+2020-04-05 16:00:19,614 - eBanking -INFO - User name is provided
+2020-04-05 16:00:19,731 - eBanking -INFO - Passsword is provided
+2020-04-05 16:00:52,165 - eBanking -INFO - User name is provided
+2020-04-05 16:00:52,352 - eBanking -INFO - Passsword is provided
+2020-04-05 16:03:37,160 - eBanking -INFO - User name is provided
+2020-04-05 16:03:37,309 - eBanking -INFO - Passsword is provided
+2020-04-05 16:04:11,172 - eBanking -INFO - User name is provided
+2020-04-05 16:04:11,288 - eBanking -INFO - Passsword is provided
+2020-04-05 16:04:45,334 - eBanking -INFO - User name is provided
+2020-04-05 16:04:45,475 - eBanking -INFO - Passsword is provided
+2020-04-05 16:06:12,717 - eBanking -INFO - User name is provided
+2020-04-05 16:06:12,850 - eBanking -INFO - Passsword is provided
+2020-04-05 16:07:25,278 - eBanking -INFO - User name is provided
+2020-04-05 16:07:25,456 - eBanking -INFO - Passsword is provided
+2020-04-05 16:08:45,190 - eBanking -INFO - User name is provided
+2020-04-05 16:08:45,338 - eBanking -INFO - Passsword is provided
+2020-04-05 16:15:50,157 - eBanking -INFO - User name is provided
+2020-04-05 16:15:50,309 - eBanking -INFO - Passsword is provided
+2020-04-05 16:31:10,922 - eBanking -INFO - User name is provided
+2020-04-05 16:31:11,043 - eBanking -INFO - Passsword is provided
+2020-04-05 16:34:45,856 - eBanking -INFO - User name is provided
+2020-04-05 16:34:45,966 - eBanking -INFO - Passsword is provided
+2020-04-05 16:36:18,865 - eBanking -INFO - User name is provided
+2020-04-05 16:36:19,003 - eBanking -INFO - Passsword is provided
+2020-04-05 16:36:23,373 - eBanking -INFO - providing customer details....
+2020-04-05 16:38:02,917 - eBanking -INFO - User name is provided
+2020-04-05 16:38:03,055 - eBanking -INFO - Passsword is provided
+2020-04-05 16:39:20,083 - eBanking -INFO - User name is provided
+2020-04-05 16:39:20,191 - eBanking -INFO - Passsword is provided
+2020-04-05 16:42:06,331 - eBanking -INFO - User name is provided
+2020-04-05 16:42:06,443 - eBanking -INFO - Passsword is provided
+2020-04-05 16:43:09,624 - eBanking -INFO - User name is provided
+2020-04-05 16:43:09,791 - eBanking -INFO - Passsword is provided
+2020-04-05 16:44:37,115 - eBanking -INFO - User name is provided
+2020-04-05 16:44:37,265 - eBanking -INFO - Passsword is provided
+2020-04-05 16:45:11,820 - eBanking -INFO - User name is provided
+2020-04-05 16:45:12,002 - eBanking -INFO - Passsword is provided
+2020-04-05 16:45:56,811 - eBanking -INFO - Base URL is Opened
+2020-04-05 16:45:57,029 - eBanking -INFO - UserName is passed 
+2020-04-05 16:45:57,133 - eBanking -INFO - Password is passed 
+2020-04-05 16:45:58,363 - eBanking -INFO - Button is Clicked
+2020-04-05 16:46:01,429 - eBanking -INFO - Login passed
+2020-04-05 16:46:06,745 - eBanking -INFO - Base URL is Opened
+2020-04-05 16:46:06,860 - eBanking -INFO - UserName is passed 
+2020-04-05 16:46:06,986 - eBanking -INFO - Password is passed 
+2020-04-05 16:46:07,433 - eBanking -INFO - Button is Clicked
+2020-04-05 16:46:11,956 - eBanking -INFO - Base URL is Opened
+2020-04-05 16:46:12,079 - eBanking -INFO - UserName is passed 
+2020-04-05 16:46:12,172 - eBanking -INFO - Password is passed 
+2020-04-05 16:46:12,624 - eBanking -INFO - Button is Clicked
+2020-04-05 16:46:17,320 - eBanking -INFO - Base URL is Opened
+2020-04-05 16:46:17,440 - eBanking -INFO - UserName is passed 
+2020-04-05 16:46:17,574 - eBanking -INFO - Password is passed 
+2020-04-05 16:46:18,008 - eBanking -INFO - Button is Clicked
+2020-04-05 16:46:22,736 - eBanking -INFO - Base URL is Opened
+2020-04-05 16:46:22,854 - eBanking -INFO - UserName is passed 
+2020-04-05 16:46:22,956 - eBanking -INFO - Password is passed 
+2020-04-05 16:46:23,384 - eBanking -INFO - Button is Clicked
+2020-04-05 16:46:34,068 - eBanking -INFO - User name is provided
+2020-04-05 16:46:34,195 - eBanking -INFO - Passsword is provided
+2020-04-05 17:12:28,099 - eBanking -INFO - Base URL is Opened
+2020-04-05 17:12:28,710 - eBanking -INFO - UserName is passed 
+2020-04-05 17:12:28,876 - eBanking -INFO - Password is passed 
+2020-04-05 17:12:30,639 - eBanking -INFO - Button is Clicked
+2020-04-05 17:12:33,912 - eBanking -INFO - Login passed
+2020-04-05 17:12:39,544 - eBanking -INFO - Base URL is Opened
+2020-04-05 17:12:39,687 - eBanking -INFO - UserName is passed 
+2020-04-05 17:12:39,844 - eBanking -INFO - Password is passed 
+2020-04-05 17:12:40,303 - eBanking -INFO - Button is Clicked
+2020-04-05 17:12:46,547 - eBanking -INFO - Base URL is Opened
+2020-04-05 17:12:46,914 - eBanking -INFO - UserName is passed 
+2020-04-05 17:12:47,036 - eBanking -INFO - Password is passed 
+2020-04-05 17:12:47,490 - eBanking -INFO - Button is Clicked
+2020-04-05 17:12:52,062 - eBanking -INFO - Base URL is Opened
+2020-04-05 17:12:52,196 - eBanking -INFO - UserName is passed 
+2020-04-05 17:12:52,335 - eBanking -INFO - Password is passed 
+2020-04-05 17:12:52,793 - eBanking -INFO - Button is Clicked
+2020-04-05 17:12:57,373 - eBanking -INFO - Base URL is Opened
+2020-04-05 17:12:57,530 - eBanking -INFO - UserName is passed 
+2020-04-05 17:12:57,703 - eBanking -INFO - Password is passed 
+2020-04-05 17:12:58,172 - eBanking -INFO - Button is Clicked
+2020-04-05 17:13:09,215 - eBanking -INFO - User name is provided
+2020-04-05 17:13:09,349 - eBanking -INFO - Passsword is provided
+2020-04-05 17:16:39,416 - eBanking -INFO - Base URL is Opened
+2020-04-05 17:16:39,606 - eBanking -INFO - UserName is passed 
+2020-04-05 17:16:39,721 - eBanking -INFO - Password is passed 
+2020-04-05 17:16:41,470 - eBanking -INFO - Button is Clicked
+2020-04-05 17:16:44,517 - eBanking -INFO - Login passed
+2020-04-05 17:16:44,817 - eBanking -INFO - Base URL is Opened
+2020-04-05 17:50:23,282 - eBanking -INFO - Base URL is Opened
+2020-04-05 17:50:23,605 - eBanking -INFO - UserName is passed 
+2020-04-05 17:50:23,782 - eBanking -INFO - Password is passed 
+2020-04-05 17:50:25,330 - eBanking -INFO - Button is Clicked
+2020-04-05 17:50:28,575 - eBanking -INFO - Login passed
+2020-04-05 17:50:28,761 - eBanking -INFO - Base URL is Opened
+2020-04-05 17:51:29,143 - eBanking -INFO - Base URL is Opened
+2020-04-05 17:51:29,338 - eBanking -INFO - UserName is passed 
+2020-04-05 17:51:29,454 - eBanking -INFO - Password is passed 
+2020-04-05 17:51:31,301 - eBanking -INFO - Button is Clicked
+2020-04-05 17:51:34,344 - eBanking -INFO - Login passed
+2020-04-05 17:51:34,729 - eBanking -INFO - Base URL is Opened
+2020-04-05 17:52:49,063 - eBanking -INFO - Base URL is Opened
+2020-04-05 17:52:49,274 - eBanking -INFO - UserName is passed 
+2020-04-05 17:52:49,392 - eBanking -INFO - Password is passed 
+2020-04-05 17:52:50,683 - eBanking -INFO - Button is Clicked
+2020-04-05 17:52:53,722 - eBanking -INFO - Login passed
+2020-04-05 17:52:53,897 - eBanking -INFO - Base URL is Opened
+2020-04-05 17:56:04,062 - eBanking -INFO - Base URL is Opened
+2020-04-05 17:56:04,274 - eBanking -INFO - UserName is passed 
+2020-04-05 17:56:04,489 - eBanking -INFO - Password is passed 
+2020-04-05 17:56:06,373 - eBanking -INFO - Button is Clicked
+2020-04-05 17:56:09,415 - eBanking -INFO - Login passed
+2020-04-05 17:56:09,579 - eBanking -INFO - Base URL is Opened
+2020-04-05 17:58:20,396 - eBanking -INFO - Base URL is Opened
+2020-04-05 17:58:20,653 - eBanking -INFO - UserName is passed 
+2020-04-05 17:58:20,986 - eBanking -INFO - Password is passed 
+2020-04-05 17:58:22,994 - eBanking -INFO - Button is Clicked
+2020-04-05 17:58:26,060 - eBanking -INFO - Login passed
+2020-04-05 17:58:26,254 - eBanking -INFO - Base URL is Opened
+2020-04-05 19:08:56,155 - eBanking -INFO - Base URL is Opened
+2020-04-05 19:08:56,364 - eBanking -INFO - UserName is passed 
+2020-04-05 19:08:56,570 - eBanking -INFO - Password is passed 
+2020-04-05 19:08:59,341 - eBanking -INFO - Button is Clicked
+2020-04-05 19:09:02,388 - eBanking -INFO - Login passed
+2020-04-05 19:09:08,423 - eBanking -INFO - Base URL is Opened
+2020-04-05 19:09:08,655 - eBanking -INFO - UserName is passed 
+2020-04-05 19:09:08,839 - eBanking -INFO - Password is passed 
+2020-04-05 19:09:09,340 - eBanking -INFO - Button is Clicked
+2020-04-05 19:14:50,823 - eBanking -INFO - Base URL is Opened
+2020-04-05 19:14:51,128 - eBanking -INFO - UserName is passed 
+2020-04-05 19:14:51,251 - eBanking -INFO - Password is passed 
+2020-04-05 19:14:52,848 - eBanking -INFO - Button is Clicked
+2020-04-05 19:14:55,956 - eBanking -INFO - Login passed
+2020-04-05 19:14:56,096 - eBanking -INFO - Base URL is Opened
+2020-04-05 19:17:53,640 - eBanking -INFO - Base URL is Opened
+2020-04-05 19:17:53,879 - eBanking -INFO - UserName is passed 
+2020-04-05 19:17:53,994 - eBanking -INFO - Password is passed 
+2020-04-05 19:17:55,884 - eBanking -INFO - Button is Clicked
+2020-04-05 19:17:58,916 - eBanking -INFO - Login passed
+2020-04-05 19:17:59,059 - eBanking -INFO - Base URL is Opened
+2020-04-05 19:19:58,999 - eBanking -INFO - Base URL is Opened
+2020-04-05 19:20:02,428 - eBanking -INFO - UserName is passed 
+2020-04-05 19:20:02,554 - eBanking -INFO - Password is passed 
+2020-04-05 19:20:04,523 - eBanking -INFO - Button is Clicked
+2020-04-05 19:20:07,561 - eBanking -INFO - Login passed
+2020-04-05 19:20:07,744 - eBanking -INFO - Base URL is Opened
+2020-04-05 19:23:26,755 - eBanking -INFO - Base URL is Opened
+2020-04-05 19:23:27,033 - eBanking -INFO - UserName is passed 
+2020-04-05 19:23:27,259 - eBanking -INFO - Password is passed 
+2020-04-05 19:23:28,718 - eBanking -INFO - Button is Clicked
+2020-04-05 19:23:31,772 - eBanking -INFO - Login passed
+2020-04-05 19:23:31,899 - eBanking -INFO - Base URL is Opened
+2020-04-05 19:23:41,974 - eBanking -INFO - Base URL is Opened
+2020-04-05 19:23:52,039 - eBanking -INFO - Base URL is Opened
+2020-04-05 19:25:50,092 - eBanking -INFO - Base URL is Opened
+2020-04-05 19:25:50,581 - eBanking -INFO - UserName is passed 
+2020-04-05 19:25:50,879 - eBanking -INFO - Password is passed 
+2020-04-05 19:25:52,416 - eBanking -INFO - Button is Clicked
+2020-04-05 19:25:55,482 - eBanking -INFO - Login passed
+2020-04-05 19:25:55,712 - eBanking -INFO - Base URL is Opened
+2020-04-05 19:26:05,823 - eBanking -INFO - Base URL is Opened
+2020-04-05 19:26:15,876 - eBanking -INFO - Base URL is Opened
+2020-04-05 19:30:13,855 - eBanking -INFO - Base URL is Opened
+2020-04-05 19:30:14,221 - eBanking -INFO - UserName is passed 
+2020-04-05 19:30:14,552 - eBanking -INFO - Password is passed 
+2020-04-05 19:30:15,763 - eBanking -INFO - Button is Clicked
+2020-04-05 19:30:18,804 - eBanking -INFO - Login passed
+2020-04-05 19:30:18,936 - eBanking -INFO - Base URL is Opened
+2020-04-05 19:30:29,000 - eBanking -INFO - Base URL is Opened
+2020-04-05 19:32:03,955 - eBanking -INFO - Base URL is Opened
+2020-04-05 19:32:04,239 - eBanking -INFO - UserName is passed 
+2020-04-05 19:32:04,707 - eBanking -INFO - Password is passed 
+2020-04-05 19:32:06,443 - eBanking -INFO - Button is Clicked
+2020-04-05 19:32:09,608 - eBanking -INFO - Login passed
+2020-04-05 19:32:09,776 - eBanking -INFO - Base URL is Opened
+2020-04-05 19:32:12,734 - eBanking -INFO - Base URL is Opened
+2020-04-05 19:32:12,755 - eBanking -INFO - Base URL is Opened
+2020-04-05 19:32:30,773 - eBanking -INFO - Base URL is Opened
+2020-04-05 19:32:30,976 - eBanking -INFO - UserName is passed 
+2020-04-05 19:32:31,086 - eBanking -INFO - Password is passed 
+2020-04-05 19:32:32,811 - eBanking -INFO - Button is Clicked
+2020-04-05 19:32:35,853 - eBanking -INFO - Login passed
+2020-04-05 19:32:42,808 - eBanking -INFO - Base URL is Opened
+2020-04-05 19:32:42,933 - eBanking -INFO - UserName is passed 
+2020-04-05 19:32:43,066 - eBanking -INFO - Password is passed 
+2020-04-05 19:32:44,259 - eBanking -INFO - Button is Clicked
+2020-04-05 19:32:47,266 - eBanking -INFO - Login passed
+2020-04-05 19:32:52,548 - eBanking -INFO - Base URL is Opened
+2020-04-05 19:32:52,675 - eBanking -INFO - UserName is passed 
+2020-04-05 19:32:52,806 - eBanking -INFO - Password is passed 
+2020-04-05 19:32:53,910 - eBanking -INFO - Button is Clicked
+2020-04-05 19:32:56,925 - eBanking -INFO - Login passed
+2020-04-05 19:33:02,180 - eBanking -INFO - Base URL is Opened
+2020-04-05 19:33:02,311 - eBanking -INFO - UserName is passed 
+2020-04-05 19:33:02,445 - eBanking -INFO - Password is passed 
+2020-04-05 19:33:03,723 - eBanking -INFO - Button is Clicked
+2020-04-05 19:33:06,730 - eBanking -INFO - Login passed
+2020-04-05 19:34:20,771 - eBanking -INFO - Base URL is Opened
+2020-04-05 19:34:21,418 - eBanking -INFO - UserName is passed 
+2020-04-05 19:34:21,724 - eBanking -INFO - Password is passed 
+2020-04-05 19:34:23,421 - eBanking -INFO - Button is Clicked
+2020-04-05 19:34:26,537 - eBanking -INFO - Login passed
+2020-04-05 19:34:31,809 - eBanking -INFO - Base URL is Opened
+2020-04-05 19:34:31,942 - eBanking -INFO - UserName is passed 
+2020-04-05 19:34:32,072 - eBanking -INFO - Password is passed 
+2020-04-05 19:34:33,290 - eBanking -INFO - Button is Clicked
+2020-04-05 19:34:36,298 - eBanking -INFO - Login passed
+2020-04-05 19:34:41,578 - eBanking -INFO - Base URL is Opened
+2020-04-05 19:34:41,701 - eBanking -INFO - UserName is passed 
+2020-04-05 19:34:41,802 - eBanking -INFO - Password is passed 
+2020-04-05 19:34:43,092 - eBanking -INFO - Button is Clicked
+2020-04-05 19:34:46,102 - eBanking -INFO - Login passed
+2020-04-05 19:34:46,270 - eBanking -INFO - Base URL is Opened
+2020-04-05 19:35:20,119 - eBanking -INFO - Base URL is Opened
+2020-04-05 19:35:20,366 - eBanking -INFO - UserName is passed 
+2020-04-05 19:35:20,471 - eBanking -INFO - Password is passed 
+2020-04-05 19:35:21,764 - eBanking -INFO - Button is Clicked
+2020-04-05 19:35:24,812 - eBanking -INFO - Login passed
+2020-04-05 19:35:30,586 - eBanking -INFO - Base URL is Opened
+2020-04-05 19:35:30,723 - eBanking -INFO - UserName is passed 
+2020-04-05 19:35:30,854 - eBanking -INFO - Password is passed 
+2020-04-05 19:35:33,305 - eBanking -INFO - Button is Clicked
+2020-04-05 19:35:36,316 - eBanking -INFO - Login passed
+2020-04-05 19:35:41,845 - eBanking -INFO - Base URL is Opened
+2020-04-05 19:35:41,969 - eBanking -INFO - UserName is passed 
+2020-04-05 19:35:42,096 - eBanking -INFO - Password is passed 
+2020-04-05 19:35:43,588 - eBanking -INFO - Button is Clicked
+2020-04-05 19:35:46,603 - eBanking -INFO - Login passed
+2020-04-05 19:35:51,840 - eBanking -INFO - Base URL is Opened
+2020-04-05 19:35:51,985 - eBanking -INFO - UserName is passed 
+2020-04-05 19:35:52,088 - eBanking -INFO - Password is passed 
+2020-04-05 19:35:53,837 - eBanking -INFO - Button is Clicked
+2020-04-05 19:35:56,845 - eBanking -INFO - Login passed
+2020-04-05 20:03:17,289 - eBanking -INFO - Base URL is Opened
+2020-04-05 20:03:19,739 - eBanking -INFO - UserName is passed 
+2020-04-05 20:03:20,003 - eBanking -INFO - Password is passed 
+2020-04-05 20:03:24,810 - eBanking -INFO - Button is Clicked
+2020-04-05 20:03:27,875 - eBanking -INFO - Login passed
+2020-04-05 20:03:28,044 - eBanking -INFO - Base URL is Opened
+2020-04-05 20:03:38,067 - eBanking -INFO - Base URL is Opened
+2020-04-05 20:03:48,084 - eBanking -INFO - Base URL is Opened
+2020-04-05 20:18:47,812 - eBanking -INFO - Base URL is Opened
+2020-04-05 20:18:48,280 - eBanking -INFO - UserName is passed 
+2020-04-05 20:18:48,491 - eBanking -INFO - Password is passed 
+2020-04-05 20:18:50,183 - eBanking -INFO - Button is Clicked
+2020-04-05 20:18:53,580 - eBanking -INFO - Login passed
+2020-04-05 20:18:53,773 - eBanking -INFO - Base URL is Opened
+2020-04-05 20:19:03,857 - eBanking -INFO - Base URL is Opened
+2020-04-05 20:19:13,914 - eBanking -INFO - Base URL is Opened
+2020-04-05 20:19:45,174 - eBanking -INFO - Base URL is Opened
+2020-04-05 20:19:45,532 - eBanking -INFO - UserName is passed 
+2020-04-05 20:19:45,897 - eBanking -INFO - Password is passed 
+2020-04-05 20:19:47,586 - eBanking -INFO - Button is Clicked
+2020-04-05 20:19:50,766 - eBanking -INFO - Login passed
+2020-04-05 20:19:56,270 - eBanking -INFO - Base URL is Opened
+2020-04-05 20:19:56,415 - eBanking -INFO - UserName is passed 
+2020-04-05 20:19:56,567 - eBanking -INFO - Password is passed 
+2020-04-05 20:19:57,707 - eBanking -INFO - Button is Clicked
+2020-04-05 20:20:00,712 - eBanking -INFO - Login passed
+2020-04-05 20:20:06,051 - eBanking -INFO - Base URL is Opened
+2020-04-05 20:20:06,189 - eBanking -INFO - UserName is passed 
+2020-04-05 20:20:06,341 - eBanking -INFO - Password is passed 
+2020-04-05 20:20:08,435 - eBanking -INFO - Button is Clicked
+2020-04-05 20:20:11,442 - eBanking -INFO - Login passed
+2020-04-05 20:20:16,694 - eBanking -INFO - Base URL is Opened
+2020-04-05 20:20:16,821 - eBanking -INFO - UserName is passed 
+2020-04-05 20:20:16,973 - eBanking -INFO - Password is passed 
+2020-04-05 20:20:18,795 - eBanking -INFO - Button is Clicked
+2020-04-05 20:20:21,808 - eBanking -INFO - Login passed
+2020-04-05 22:19:54,204 - eBanking -INFO - Base URL is Opened
+2020-04-05 22:19:56,706 - eBanking -INFO - UserName is passed 
+2020-04-05 22:19:56,821 - eBanking -INFO - Password is passed 
+2020-04-05 22:19:59,062 - eBanking -INFO - Button is Clicked
+2020-04-05 22:20:02,113 - eBanking -INFO - Login passed
+2020-04-05 22:20:02,256 - eBanking -INFO - Base URL is Opened
+2020-04-05 22:20:12,320 - eBanking -INFO - Base URL is Opened
+2020-04-05 22:20:22,359 - eBanking -INFO - Base URL is Opened
+2020-04-05 22:24:11,359 - eBanking -INFO - Base URL is Opened
+2020-04-05 22:24:21,479 - eBanking -INFO - Base URL is Opened
+2020-04-05 22:24:31,504 - eBanking -INFO - Base URL is Opened
+2020-04-05 22:25:00,347 - eBanking -INFO - Base URL is Opened
+2020-04-05 22:25:10,487 - eBanking -INFO - Base URL is Opened
+2020-04-05 22:25:20,536 - eBanking -INFO - Base URL is Opened
+2020-04-05 22:25:46,432 - eBanking -INFO - Base URL is Opened
+2020-04-05 22:25:56,548 - eBanking -INFO - Base URL is Opened
+2020-04-05 22:26:06,604 - eBanking -INFO - Base URL is Opened
+2020-04-05 22:26:16,661 - eBanking -INFO - Base URL is Opened
+2020-04-05 22:27:34,545 - eBanking -INFO - Base URL is Opened
+2020-04-05 22:27:34,893 - eBanking -INFO - UserName is passed 
+2020-04-05 22:27:35,028 - eBanking -INFO - Password is passed 
+2020-04-05 22:27:36,252 - eBanking -INFO - Button is Clicked
+2020-04-05 22:27:39,363 - eBanking -INFO - Login passed
+2020-04-05 22:27:39,566 - eBanking -INFO - Base URL is Opened
+2020-04-05 22:27:45,364 - eBanking -INFO - Base URL is Opened
+2020-04-05 22:27:45,386 - eBanking -INFO - Base URL is Opened
+2020-04-05 22:28:09,018 - eBanking -INFO - Base URL is Opened
+2020-04-05 22:28:09,539 - eBanking -INFO - UserName is passed 
+2020-04-05 22:28:09,680 - eBanking -INFO - Password is passed 
+2020-04-05 22:28:11,653 - eBanking -INFO - Button is Clicked
+2020-04-05 22:28:14,818 - eBanking -INFO - Login passed
+2020-04-05 22:28:20,456 - eBanking -INFO - Base URL is Opened
+2020-04-05 22:28:20,598 - eBanking -INFO - UserName is passed 
+2020-04-05 22:28:20,738 - eBanking -INFO - Password is passed 
+2020-04-05 22:28:22,681 - eBanking -INFO - Button is Clicked
+2020-04-05 22:28:25,694 - eBanking -INFO - Login passed
+2020-04-05 22:28:31,353 - eBanking -INFO - Base URL is Opened
+2020-04-05 22:28:31,505 - eBanking -INFO - UserName is passed 
+2020-04-05 22:28:31,668 - eBanking -INFO - Password is passed 
+2020-04-05 22:28:32,782 - eBanking -INFO - Button is Clicked
+2020-04-05 22:28:35,796 - eBanking -INFO - Login passed
+2020-04-05 22:28:35,950 - eBanking -INFO - Base URL is Opened
+2020-04-05 22:53:21,511 - eBanking -INFO - Base URL is Opened
+2020-04-05 22:53:21,914 - eBanking -INFO - UserName is passed 
+2020-04-05 22:53:22,048 - eBanking -INFO - Password is passed 
+2020-04-05 22:53:23,882 - eBanking -INFO - Button is Clicked
+2020-04-05 22:53:26,926 - eBanking -INFO - Login passed
+2020-04-05 22:53:32,329 - eBanking -INFO - Base URL is Opened
+2020-04-05 22:53:32,466 - eBanking -INFO - UserName is passed 
+2020-04-05 22:53:32,613 - eBanking -INFO - Password is passed 
+2020-04-05 22:53:34,629 - eBanking -INFO - Button is Clicked
+2020-04-05 22:53:37,635 - eBanking -INFO - Login passed
+2020-04-05 22:53:43,426 - eBanking -INFO - Base URL is Opened
+2020-04-05 22:53:43,554 - eBanking -INFO - UserName is passed 
+2020-04-05 22:53:43,697 - eBanking -INFO - Password is passed 
+2020-04-05 22:53:46,016 - eBanking -INFO - Button is Clicked
+2020-04-05 22:53:49,034 - eBanking -INFO - Login passed
+2020-04-05 22:53:54,417 - eBanking -INFO - Base URL is Opened
+2020-04-05 22:53:54,557 - eBanking -INFO - UserName is passed 
+2020-04-05 22:53:54,692 - eBanking -INFO - Password is passed 
+2020-04-05 22:53:56,388 - eBanking -INFO - Button is Clicked
+2020-04-05 22:53:59,406 - eBanking -INFO - Login passed
+2020-04-05 22:55:01,557 - eBanking -INFO - Base URL is Opened
+2020-04-05 22:55:01,862 - eBanking -INFO - UserName is passed 
+2020-04-05 22:55:01,989 - eBanking -INFO - Password is passed 
+2020-04-05 22:55:03,884 - eBanking -INFO - Button is Clicked
+2020-04-05 22:55:06,929 - eBanking -INFO - Login passed
+2020-04-05 22:55:07,068 - eBanking -INFO - Base URL is Opened
+2020-04-05 22:55:17,122 - eBanking -INFO - Base URL is Opened
+2020-04-05 22:55:18,832 - eBanking -INFO - UserName is passed 
+2020-04-05 22:55:19,002 - eBanking -INFO - Password is passed 
+2020-04-05 22:55:21,198 - eBanking -INFO - Button is Clicked
+2020-04-05 22:55:24,210 - eBanking -INFO - Login passed
+2020-04-05 22:55:24,375 - eBanking -INFO - Base URL is Opened
+2020-04-05 22:59:56,604 - eBanking -INFO - Base URL is Opened
+2020-04-05 22:59:56,895 - eBanking -INFO - UserName is passed 
+2020-04-05 22:59:57,031 - eBanking -INFO - Password is passed 
+2020-04-05 22:59:58,791 - eBanking -INFO - Button is Clicked
+2020-04-05 23:00:08,913 - eBanking -INFO - Base URL is Opened
+2020-04-05 23:00:18,980 - eBanking -INFO - Base URL is Opened
+2020-04-05 23:00:29,032 - eBanking -INFO - Base URL is Opened
+2020-04-05 23:01:27,519 - eBanking -INFO - Base URL is Opened
+2020-04-05 23:01:37,748 - eBanking -INFO - Base URL is Opened
+2020-04-05 23:01:47,827 - eBanking -INFO - Base URL is Opened
+2020-04-05 23:01:51,229 - eBanking -INFO - Base URL is Opened
+2020-04-05 23:05:00,331 - eBanking -INFO - Base URL is Opened
+2020-04-05 23:05:10,562 - eBanking -INFO - Base URL is Opened
+2020-04-05 23:05:10,590 - eBanking -INFO - Base URL is Opened
+2020-04-05 23:05:10,612 - eBanking -INFO - Base URL is Opened
+2020-04-05 23:08:22,700 - eBanking -INFO - Base URL is Opened
+2020-04-05 23:08:32,951 - eBanking -INFO - Base URL is Opened
+2020-04-05 23:08:32,973 - eBanking -INFO - Base URL is Opened
+2020-04-05 23:08:32,990 - eBanking -INFO - Base URL is Opened
+2020-04-05 23:11:32,226 - eBanking -INFO - Base URL is Opened
+2020-04-05 23:11:52,964 - eBanking -INFO - Base URL is Opened
+2020-04-05 23:12:13,091 - eBanking -INFO - Base URL is Opened
+2020-04-05 23:12:52,893 - eBanking -INFO - Base URL is Opened
+2020-04-05 23:13:03,528 - eBanking -INFO - UserName is passed 
+2020-04-05 23:13:03,668 - eBanking -INFO - Password is passed 
+2020-04-05 23:13:06,692 - eBanking -INFO - Button is Clicked
+2020-04-05 23:13:09,744 - eBanking -INFO - Login passed
+2020-04-05 23:13:15,782 - eBanking -INFO - Base URL is Opened
+2020-04-05 23:13:36,001 - eBanking -INFO - Base URL is Opened
+2020-04-05 23:13:40,628 - eBanking -INFO - Base URL is Opened
+2020-04-05 23:15:59,410 - eBanking -INFO - Base URL is Opened
+2020-04-05 23:16:10,030 - eBanking -INFO - UserName is passed 
+2020-04-05 23:16:10,151 - eBanking -INFO - Password is passed 
+2020-04-05 23:16:12,438 - eBanking -INFO - Button is Clicked
+2020-04-05 23:16:25,813 - eBanking -INFO - Login passed
+2020-04-05 23:16:32,456 - eBanking -INFO - Base URL is Opened
+2020-04-05 23:16:42,955 - eBanking -INFO - UserName is passed 
+2020-04-05 23:16:43,068 - eBanking -INFO - Password is passed 
+2020-04-05 23:16:45,089 - eBanking -INFO - Button is Clicked
+2020-04-05 23:16:58,433 - eBanking -INFO - Login passed
+2020-04-05 23:17:04,697 - eBanking -INFO - Base URL is Opened
+2020-04-05 23:17:15,227 - eBanking -INFO - UserName is passed 
+2020-04-05 23:17:15,384 - eBanking -INFO - Password is passed 
+2020-04-05 23:17:17,324 - eBanking -INFO - Button is Clicked
+2020-04-05 23:17:30,671 - eBanking -INFO - Login passed
+2020-04-05 23:17:36,449 - eBanking -INFO - Base URL is Opened
+2020-04-05 23:17:46,963 - eBanking -INFO - UserName is passed 
+2020-04-05 23:17:47,083 - eBanking -INFO - Password is passed 
+2020-04-05 23:17:49,097 - eBanking -INFO - Button is Clicked
+2020-04-05 23:18:02,434 - eBanking -INFO - Login passed
+2020-04-05 23:20:09,513 - eBanking -INFO - Base URL is Opened
+2020-04-05 23:20:20,078 - eBanking -INFO - UserName is passed 
+2020-04-05 23:20:20,198 - eBanking -INFO - Password is passed 
+2020-04-05 23:20:22,455 - eBanking -INFO - Button is Clicked
+2020-04-05 23:20:33,853 - eBanking -INFO - Login passed
+2020-04-05 23:20:37,374 - eBanking -INFO - Base URL is Opened
+2020-04-05 23:20:47,835 - eBanking -INFO - UserName is passed 
+2020-04-05 23:20:47,957 - eBanking -INFO - Password is passed 
+2020-04-05 23:20:49,525 - eBanking -INFO - Button is Clicked
+2020-04-05 23:21:00,908 - eBanking -INFO - Login passed
+2020-04-05 23:21:04,970 - eBanking -INFO - Base URL is Opened
+2020-04-05 23:21:15,520 - eBanking -INFO - UserName is passed 
+2020-04-05 23:21:15,650 - eBanking -INFO - Password is passed 
+2020-04-05 23:21:17,613 - eBanking -INFO - Button is Clicked
+2020-04-05 23:21:29,071 - eBanking -INFO - Login passed
+2020-04-05 23:21:32,584 - eBanking -INFO - Base URL is Opened
+2020-04-05 23:21:43,003 - eBanking -INFO - UserName is passed 
+2020-04-05 23:21:43,128 - eBanking -INFO - Password is passed 
+2020-04-05 23:21:45,085 - eBanking -INFO - Button is Clicked
+2020-04-05 23:21:56,423 - eBanking -INFO - Login passed
+2020-04-05 23:22:40,971 - eBanking -INFO - Base URL is Opened
+2020-04-05 23:22:51,478 - eBanking -INFO - UserName is passed 
+2020-04-05 23:22:51,607 - eBanking -INFO - Password is passed 
+2020-04-05 23:22:54,382 - eBanking -INFO - Button is Clicked
+2020-04-05 23:23:05,932 - eBanking -INFO - Login passed
+2020-04-05 23:23:09,665 - eBanking -INFO - Base URL is Opened
+2020-04-05 23:23:20,225 - eBanking -INFO - UserName is passed 
+2020-04-05 23:23:20,344 - eBanking -INFO - Password is passed 
+2020-04-05 23:23:21,765 - eBanking -INFO - Button is Clicked
+2020-04-05 23:23:33,094 - eBanking -INFO - Login passed
+2020-04-05 23:23:36,775 - eBanking -INFO - Base URL is Opened
+2020-04-05 23:23:47,227 - eBanking -INFO - UserName is passed 
+2020-04-05 23:23:47,345 - eBanking -INFO - Password is passed 
+2020-04-05 23:23:49,311 - eBanking -INFO - Button is Clicked
+2020-04-05 23:24:00,697 - eBanking -INFO - Login passed
+2020-04-05 23:24:04,614 - eBanking -INFO - Base URL is Opened
+2020-04-05 23:24:15,186 - eBanking -INFO - UserName is passed 
+2020-04-05 23:24:15,346 - eBanking -INFO - Password is passed 
+2020-04-05 23:24:17,206 - eBanking -INFO - Button is Clicked
+2020-04-05 23:24:28,677 - eBanking -INFO - Login passed
+2020-04-05 23:26:41,722 - eBanking -INFO - Base URL is Opened
+2020-04-05 23:26:52,520 - eBanking -INFO - UserName is passed 
+2020-04-05 23:26:52,715 - eBanking -INFO - Password is passed 
+2020-04-05 23:26:55,778 - eBanking -INFO - Button is Clicked
+2020-04-05 23:27:07,202 - eBanking -INFO - Login passed
+2020-04-05 23:27:10,777 - eBanking -INFO - Base URL is Opened
+2020-04-05 23:27:21,285 - eBanking -INFO - UserName is passed 
+2020-04-05 23:27:21,412 - eBanking -INFO - Password is passed 
+2020-04-05 23:27:23,421 - eBanking -INFO - Button is Clicked
+2020-04-05 23:27:34,778 - eBanking -INFO - Login passed
+2020-04-05 23:27:38,613 - eBanking -INFO - Base URL is Opened
+2020-04-05 23:27:49,095 - eBanking -INFO - UserName is passed 
+2020-04-05 23:27:49,227 - eBanking -INFO - Password is passed 
+2020-04-05 23:27:51,202 - eBanking -INFO - Button is Clicked
+2020-04-05 23:28:02,680 - eBanking -INFO - Login passed
+2020-04-05 23:28:05,942 - eBanking -INFO - Base URL is Opened
+2020-04-05 23:28:16,408 - eBanking -INFO - UserName is passed 
+2020-04-05 23:28:16,530 - eBanking -INFO - Password is passed 
+2020-04-05 23:28:18,534 - eBanking -INFO - Button is Clicked
+2020-04-05 23:28:29,857 - eBanking -INFO - Login passed
+2020-04-05 23:29:28,189 - eBanking -INFO - Base URL is Opened
+2020-04-05 23:29:39,050 - eBanking -INFO - UserName is passed 
+2020-04-05 23:29:39,209 - eBanking -INFO - Password is passed 
+2020-04-05 23:29:41,449 - eBanking -INFO - Button is Clicked
+2020-04-05 23:29:52,831 - eBanking -INFO - Login passed
+2020-04-05 23:29:56,714 - eBanking -INFO - Base URL is Opened
+2020-04-05 23:30:07,227 - eBanking -INFO - UserName is passed 
+2020-04-05 23:30:07,364 - eBanking -INFO - Password is passed 
+2020-04-05 23:30:09,321 - eBanking -INFO - Button is Clicked
+2020-04-05 23:30:20,772 - eBanking -INFO - Login passed
+2020-04-05 23:30:27,490 - eBanking -INFO - Base URL is Opened
+2020-04-05 23:30:38,022 - eBanking -INFO - UserName is passed 
+2020-04-05 23:30:38,161 - eBanking -INFO - Password is passed 
+2020-04-05 23:30:40,243 - eBanking -INFO - Button is Clicked
+2020-04-05 23:30:51,549 - eBanking -INFO - Login passed
+2020-04-05 23:30:56,033 - eBanking -INFO - Base URL is Opened
+2020-04-05 23:31:06,510 - eBanking -INFO - UserName is passed 
+2020-04-05 23:31:06,671 - eBanking -INFO - Password is passed 
+2020-04-05 23:31:08,663 - eBanking -INFO - Button is Clicked
+2020-04-05 23:31:20,062 - eBanking -INFO - Login passed
+2020-04-05 23:40:49,226 - eBanking -INFO - Base URL is Opened
+2020-04-05 23:40:59,750 - eBanking -INFO - UserName is passed 
+2020-04-05 23:40:59,859 - eBanking -INFO - Password is passed 
+2020-04-05 23:41:01,995 - eBanking -INFO - Button is Clicked
+2020-04-05 23:41:13,462 - eBanking -INFO - Login passed
+2020-04-05 23:41:17,539 - eBanking -INFO - Base URL is Opened
+2020-04-05 23:41:27,994 - eBanking -INFO - UserName is passed 
+2020-04-05 23:41:28,100 - eBanking -INFO - Password is passed 
+2020-04-05 23:41:30,076 - eBanking -INFO - Button is Clicked
+2020-04-05 23:41:41,554 - eBanking -INFO - Login passed
+2020-04-05 23:41:44,851 - eBanking -INFO - Base URL is Opened
+2020-04-05 23:41:55,371 - eBanking -INFO - UserName is passed 
+2020-04-05 23:41:55,480 - eBanking -INFO - Password is passed 
+2020-04-05 23:41:57,440 - eBanking -INFO - Button is Clicked
+2020-04-05 23:42:08,851 - eBanking -INFO - Login passed
+2020-04-05 23:42:12,688 - eBanking -INFO - Base URL is Opened
+2020-04-05 23:42:23,154 - eBanking -INFO - UserName is passed 
+2020-04-05 23:42:23,274 - eBanking -INFO - Password is passed 
+2020-04-05 23:42:25,259 - eBanking -INFO - Button is Clicked
+2020-04-05 23:42:36,612 - eBanking -INFO - Login passed
