@@ -1,8 +1,2 @@
-com\inetbanking\testCases\BaseClass.class
-com\inetbanking\utilities\XLUtils.class
-com\inetbanking\testCases\TC_LoginPage_001.class
 com\inetbanking\pageObject\AddCustomerPage.class
-com\inetbanking\testCases\TC_AddNewCustomer_002.class
 com\inetbanking\pageObject\LoginPage.class
-com\inetbanking\utilities\ReadConfig.class
-com\inetbanking\utilities\Reporting.class

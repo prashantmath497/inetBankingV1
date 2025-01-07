@@ -1,2 +1,2 @@
-cd D:\vmdworspace123\inetBankingV1
+cd C:\inetBankingV1
 mvn clean install

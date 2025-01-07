@@ -42,7 +42,7 @@ public class Reporting extends TestListenerAdapter {
 		extent.attachReporter(htmlReporter);
 		extent.setSystemInfo("Host name", "localhost");
 		extent.setSystemInfo("Environemnt", "QA");
-		extent.setSystemInfo("user", "pavan");
+		extent.setSystemInfo("user", "prashant");
 
 		htmlReporter.config().setDocumentTitle("InetBanking Test Project"); // Tile
 																			// of

@@ -1,8 +1,8 @@
-D:\vmdworspace123\inetBankingV1\src\test\java\com\inetbanking\utilities\ReadConfig.java
-D:\vmdworspace123\inetBankingV1\src\test\java\com\inetbanking\testCases\BaseClass.java
-D:\vmdworspace123\inetBankingV1\src\test\java\com\inetbanking\testCases\TC_AddNewCustomer_002.java
-D:\vmdworspace123\inetBankingV1\src\test\java\com\inetbanking\testCases\TC_LoginPage_001.java
-D:\vmdworspace123\inetBankingV1\src\test\java\com\inetbanking\pageObject\AddCustomerPage.java
-D:\vmdworspace123\inetBankingV1\src\test\java\com\inetbanking\utilities\XLUtils.java
-D:\vmdworspace123\inetBankingV1\src\test\java\com\inetbanking\utilities\Reporting.java
-D:\vmdworspace123\inetBankingV1\src\test\java\com\inetbanking\pageObject\LoginPage.java
+C:\project\inetBankingV1\src\test\java\com\inetbanking\pageObject\AddCustomerPage.java
+C:\project\inetBankingV1\src\test\java\com\inetbanking\pageObject\LoginPage.java
+C:\project\inetBankingV1\src\test\java\com\inetbanking\testCases\BaseClass.java
+C:\project\inetBankingV1\src\test\java\com\inetbanking\testCases\TC_AddNewCustomer_002.java
+C:\project\inetBankingV1\src\test\java\com\inetbanking\testCases\TC_LoginPage_001.java
+C:\project\inetBankingV1\src\test\java\com\inetbanking\utilities\ReadConfig.java
+C:\project\inetBankingV1\src\test\java\com\inetbanking\utilities\Reporting.java
+C:\project\inetBankingV1\src\test\java\com\inetbanking\utilities\XLUtils.java
