@@ -35,13 +35,12 @@ public class BaseClass {
 	@Parameters("browser")
 	@BeforeClass
 	public void setUp(String broswer) throws InterruptedException {
-		logger = Logger.getLogger("eBanking");
+		logger = Logger.getLogger("e1Banking");
 		PropertyConfigurator.configure("log4j.properties");
 
 		if (broswer.equals("chrome")) {
-//			System.setProperty("webdriver.chrome.driver",
-//					System.getProperty("user.dir") + readConfig.getChromeDriverPath());
-			WebDriverManager.chromedriver().setup();
+			System.setProperty("webdriver.chrome.driver",
+					System.getProperty("user.dir") + readConfig.getChromeDriverPath());
 			ChromeOptions options= new ChromeOptions();
 			options.addArguments("--disable-notifications");
 			driver = new ChromeDriver(options);
